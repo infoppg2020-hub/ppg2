@@ -1,0 +1,6 @@
+{
+  "name": "Battery Monitor & Widgets",
+  "description": "A real-time battery charging monitor and customizable Android-style home screen widget creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
